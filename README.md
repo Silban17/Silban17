@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KihunKim&fontSize=70&animation=twinkling)
 
-<h2 align="center">🛠 Tech & Tools</h3>
+<h5 align="center">📌 늦었다고 생각할때가 늦은거니 지금 당장 시작해라 📌</h3>
+
+<h2 align="center">🛠 Tech & Tools 🛠</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
@@ -28,7 +30,7 @@
 </p>
 
 <br>
-<h3 align="center"> 📌 Me 📌 </h3>
+<h3 align="center"> ✨ Me ✨ </h3>
 <p align="center">
   <a href="mailto:kkh7913@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kkh7913@gmail.com"/></a>
 </p>
