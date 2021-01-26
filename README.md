@@ -2,7 +2,7 @@
 
 <h5 align="center">📌 늦었다고 생각할때가 늦은거니 지금 당장 시작해라 📌</h3>
 
-<h2 align="center">🛠 Tech & Tools 🛠</h3>
+<h2 align="center">🛠 Tech & Tools 🛠</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
