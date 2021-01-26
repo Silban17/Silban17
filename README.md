@@ -20,6 +20,7 @@
   <br>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Zeplin-F5C300?style=flat-square&logo=Zeplin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp...
