@@ -33,7 +33,7 @@
 <br>
 <h3 align="center"> ✨ Me ✨ </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Silban17/Portfolio"/></a>
+  <a href="https://github.com/Silban17/Portfolio"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Silban17/Portfolio"/></a>
   <a href="mailto:kkh7913@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kkh7913@gmail.com"/></a>
 </p>
 <br>
