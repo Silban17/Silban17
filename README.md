@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
