@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KihunKim&fontSize=70&animation=twinkling)
 
-<h5 align="center">📌 늦었다고 생각할때가 늦은거니 지금 당장 시작해라 📌</h3>
-
 <h2 align="center">🛠 Tech & Tools 🛠</h2>
 
 <p align="center">
